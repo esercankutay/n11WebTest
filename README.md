@@ -3,6 +3,7 @@
 Notlar:  
 Dummy hesap proje kontrolünden sonra silinecektir. O alanlara kendi üyelik billgilerinizi yazınız.  
 Chrome version 75 ile çalışır  
+Testin tamamıyla çalışabilmesi için hedef bytecode version'u en az 8 olmalı.  
 
 Test Case:  
 -www.n11.com sitesi açılır.  
